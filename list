@@ -1,0 +1,26 @@
+! --- RCS & EdTech Direct Allow Rules ---
+@@||rcschools.net^$important
+@@||clever.com^$important
+@@||schoology.com^$important
+@@||instructure.com^$important
+@@||office.com^$important
+@@||microsoftonline.com^$important
+@@||live.com^$important
+@@||canva.com^$important
+@@||kiralearning.com^$important
+
+! --- Gaming & Streaming Allow Rules ---
+@@||youtube.com^$important
+@@||googlevideo.com^$important
+@@||ytimg.com^$important
+@@||roblox.com^$important
+@@||rbxcdn.com^$important
+@@||steampowered.com^$important
+@@||steamcommunity.com^$important
+@@||steamstatic.com^$important
+
+! --- Pop-up & Ad Blockers ---
+||popads.net^
+||popcash.net^
+||exoclick.com^
+||doubleclick.net^
